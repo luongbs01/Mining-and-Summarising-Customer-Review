@@ -15,7 +15,7 @@ class adjective():
         seed_file = open(self.filename, 'w')
         # print(self.seed_list)
         writer = csv.writer(seed_file, delimiter=' ',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+                            quotechar='|', quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
         for row in self.seed_list:
             writer.writerow(row)
 
