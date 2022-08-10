@@ -1,0 +1,58 @@
+{
+    "name": "Virtustream Enterprise Cloud",
+    "features": [
+        {
+            "name": "capacity",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "on steady state , major improvement in all area , showing a great capacity for understanding , adapting and fulfilling customer 's need",
+                    "great capacity to quickly learn from experience"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "team",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "that said , the new leadership team from virtustream ha been outstanding at hearing our concern , reacting and putting action in motion that address our concern"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "performance",
+            "positive": {
+                "count": 0,
+                "reviews": []
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "poor pm performance"
+                ]
+            }
+        },
+        {
+            "name": "process",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "they were very responsive through the entire process"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

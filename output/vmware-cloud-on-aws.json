@@ -1,0 +1,196 @@
+{
+    "name": "VMware Cloud on AWS",
+    "features": [
+        {
+            "name": "virtualization",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "very stable medium easy to configure , easy to expand , diversity in virtualization configuration , easy to implement",
+                    "i think vmware is the best virtualization platform in the world",
+                    "management is easy with real time virtualization"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "issue",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "we were having issue without cloud architecture - and a lot of those"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "in the three year that we have used vmware we have never run into any substantial issue that support could not resolve day of"
+                ]
+            }
+        },
+        {
+            "name": "interface",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "i had a great experience in using this product a good interface for managing data stored on multiple vm machine"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "environment",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "vmmare cloud on aws service , enabling customer to run any application cross vsphere-based private , public and hybrid cloud environment",
+                    "it enables u to run production application across vmware vsphere-based hybrid cloud environment , with optimized access to aws service",
+                    "this allows business to run their application workload across vmware-based hybrid , private and public cloud environment , with aws service",
+                    "very flexible cloud environment easy to be implemented in any kind of situation/company"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "server",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "the key capability of vmware cloud are : - good user interface to review and monitor - robust tool - simple and faster - good back up facility on server failure - easy to operate even if it is for the first time",
+                    "basically this is used for distributing the workload across the cloud based server and structure"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "data",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "the combination of vmware and aws ha proved it to be reliable , smooth and efficient cloud data service",
+                    "the partnership of vmware and aws ha paved the way for reliable and efficient hybrid cloud data service",
+                    "the partnership of vmware and aws ha got the way for efficient hybrid cloud data service",
+                    "it help to extend data center , but their are usage and migration challenge"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "product",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "excellent product i liked it a lot because it ha the facility to add or remove host or cluster from the sddc quickly , it allows to have instance available to implement laboratory for different development area , quality",
+                    "vmware ha been a rock solid product that we leverage every single day",
+                    "overall experience , it mature product and long run i would expect it would work for multi cloud hybris so that it can leverage other cloud too",
+                    "their cloud product provide information when there is maintenance , upgrade and outage"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "migration",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "organization specially bigger one can adopt and migrate their on-prem workload to cloud in no time and reduce their cost , effort , complexity in the cloud migration journey"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "system",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "it distributed model help to connect to aws or any other public cloud for the management and delivery of public cloud system"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "time",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "vmware cloud on aws is one of the finest service that i have come across in recent time",
+                    "the key capability of vmware cloud are : - good user interface to review and monitor - robust tool - simple and faster - good back up facility on server failure - easy to operate even if it is for the first time",
+                    "management is easy with real time virtualization"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "user",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "the key capability of vmware cloud are : - good user interface to review and monitor - robust tool - simple and faster - good back up facility on server failure - easy to operate even if it is for the first time",
+                    "provide seamless integration and it user friendly",
+                    "we had been previously using microsoft hyper-v. we 've now added vmware and find it to be much more user friendly and ha better feature than hyper-v. this product is very simple and faster",
+                    "it provides an outstanding user interface tool to review and monitor the application"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "support",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "great customer support team always there to back u up",
+                    "customer can preserve the data and can retrieve the data when needed great support",
+                    "vmware product are reliable and the best on the market , very easy to learn and to maintain and great customer support",
+                    "vmware for cloud ha good support and work well for certain application in our environment"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "team",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "be it for the developer , tester or other technical team"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

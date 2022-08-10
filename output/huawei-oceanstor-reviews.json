@@ -1,0 +1,83 @@
+{
+    "name": "Huawei OceanStor",
+    "features": [
+        {
+            "name": "data",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the software allows easy production of reliable data insight and easy to manage important business information and protect client information and the capacity offered is enough"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "nvme",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "it 's much faster than it competitor in term of performance thanks to all flash nvme technology"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "information",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the software allows easy production of reliable data insight and easy to manage important business information and protect client information and the capacity offered is enough"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "performance",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the system being deployed in the data centre san environment is the huawei oceanstor dorado v3 all-flash storage system , which ha been configured with non-volatile memory express ( nvme ) disk for maximum performance"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "server",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "huawei oceanstor dorado5000 v3 is used a the main san storage device of our virtual server on vmware , serving the whole of our organization"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "system",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "perfect storage system which provides multiple functionality and very easy for all user"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

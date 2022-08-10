@@ -1,0 +1,820 @@
+{
+    "name": "Google Cloud Platform",
+    "features": [
+        {
+            "name": "management",
+            "positive": {
+                "count": 10,
+                "reviews": [
+                    "this platform is one of the best cloud content management platform",
+                    "it ha a super wide range of tool and service that make the cloud management a lot easier and centralised",
+                    "deployed window server for admin panel and data base management , the over all product resource and management is good and can we easily change the hardwasre a required to the business and performance , ha wide range of option and cloud",
+                    "it make sharing and content management wasy easy in a big organization",
+                    "it make sharing and content management wasy easy in a big organization",
+                    "google cloud platform provides all the cloud system management like cloud system creation domain name management , load balancing , data storage , cdn and vpn",
+                    "google cloud platform provides all the cloud system management like cloud system creation domain name management , load balancing , data storage , cdn and vpn",
+                    "very quick to start with - intuitive and easier high level management ( except for google group ui )",
+                    "api management session particularly good",
+                    "google cloud platform offer service for compute , storage , networking , big data , machine learning and the internet of thing ( iot ) , a well a cloud management , security and developer tool"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "computing",
+            "positive": {
+                "count": 43,
+                "reviews": [
+                    "google cloud platform is cloud computing service suite",
+                    "a bunch of cloud computing service offered by google , google cloud platform ( gcp ) work on the same infrastructure that google us for providing it other end-user offering like youtube , gmail , etc",
+                    "gcp offer cloud computing service which run on the same infrastructure that google also us for product like gmail , youtube etc",
+                    "google cloud platform provides the required computing resource which are needed to deploy , develop a well a run application on internet",
+                    "this platform is the public cloud computing service",
+                    "we use google cloud platform for our data management , google cloud platform is a suite of cloud computing service which us the same infrastructure that google us for other end user service namely gmail , youtube etc",
+                    "i manage a team of softwasre engineer who us the google cloud computing platform extensively for our web-based project that usually involve strong data analysis and computation my overall experience ha been okay , i wo n't say that we",
+                    "google cloud platform is the best suite for cloud computing service",
+                    "a suite of cloud computing solution offered by google , google cloud platform ( gcp ) is definitely a game-changer in the cloud data management space",
+                    "my experience with google cloud platform - google cloud platform is feature-filled with cloud infrastructure and cloud computing service along with google apis such a youtube api",
+                    "it is an easy and very intuitive plataform to use , it give u great computing capability and allows u to deploy new instance of machine with more or le computing power depending on the need we have thanks to this solution we are able to migrate",
+                    "google cloud platform or gcp is a cloud service provided by google inc. the provide high-performance infrastructure for cloud computing , data analytics & machine learning",
+                    "this is a cloud computing platform provided by google , we can take advantage of google infrastructure and provide them service that is smart and highly secure",
+                    "google ha launched it own cloud platform called gcp which provides service for cloud computing",
+                    "google cloud is a powerful cloud computing platform",
+                    "google cloud platform is the best cloud computing service provided by google",
+                    "cloud computing is the best wasy of managing our data in secure wasy there are so many provider were available aws , azure , sap have used all these will preffer gcp ( google cloud platform ) which is quite cost efficient while compared to the",
+                    "it provides the best computing source to deploy and operate the application on the web",
+                    "this cloud computing platform delivers infrastructure service and tool to help you create application easily",
+                    "google cloud platform provides cloud computing service to the organization or individual on the same infrastructure which google us for it other product such a google search , youtube , and gmail",
+                    "google cloud platform is not just a tool but a suite of cloud computing service that can make your vision reach it true potential",
+                    "google cloud platform let you meet all your cloud computing need",
+                    "google cloud platform provides a great platform for cloud computing",
+                    "google cloud platform is a powerful cloud computing tool offered by google with host of feature",
+                    "really a great product owned by google which provides cloud computing functionality sitting at remote location from the server",
+                    "we recently moved to google cloud platform , offered by google , is a suite of cloud computing service",
+                    "outstanding for cloud computing , data analytics and data storage",
+                    "google cloud computing is very reliable , easy to implement and very efficient",
+                    "google cloud computing is very powerful and the speed to calculate and process data a graphic processing ha been satisfactory , when we wasnt more power simply hire additional cpu or ram memory that is added instantly",
+                    "google cloud platform ( gcp ) is a collection of cloud computing service that work on the same principle a google doe internally",
+                    "google cloud platform is a cloud computing suite offered by google , operating on the same infrastructure that google us for it user-driven product , including google searcher and youtube",
+                    "it is a cloud computing service that work on the same infrastructure that google us for it end-user product",
+                    "google cloud platform is a suite of cloud computing service and it very easy to use",
+                    "cloud platform , is a suite of cloud computing service that run on the same infrastructure that google us internally for it end-user product , such a",
+                    "with cloud computing , our data is stored on the internet , so there is no data loss",
+                    "includes several service important for developer like bigquery , storage and other cloud computing service with server all around the world",
+                    "there 's a learning curve that 's steep in place , but gcp ha clearly taken the next step in the evolution of cloud computing",
+                    "is a suite of cloud computing service that run on the same infrastructure that google us internally for it end-user product , such a google search and youtube",
+                    "over 3 year of working experience with cloud service provider including amazon web service , vultr & digitalocean can lead me to say that the google cloud platform is one the most amazing cloud computing service i have had the pleasure of using",
+                    "i am very happy with their cloud computing platform",
+                    "it offer ease of use in their user interface and strong computing",
+                    "google is a very stable cloud provider and easy to start using cloud computing with",
+                    "google cloud platform or gcp a we call it is a great platform which comprises a suite of cloud computing service which help people to develop , create , scale and deploy webservices , store database in the google infrastructure"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "development",
+            "positive": {
+                "count": 8,
+                "reviews": [
+                    "google cloud platform was such an outstanding large development service in use",
+                    "essential and user friendly cloud interface pro : 1 ) very user friendly 2 ) cost effective 3 ) open source and also allows easy switching from other service provider 4 ) allows easy application development directly on cloud 5 ) stable update which doe not",
+                    "really good development experience , great security with the iap",
+                    "really good development experience , great security with the iap",
+                    "most robust softwasre development support platform available today",
+                    "great innovation and rapid development of new product",
+                    "simple feature but simple development , mean great success in your project very quickly !",
+                    "simple feature but simple development , mean great success in your project very quickly !"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "all the past development tool and softwasre are all in one place"
+                ]
+            }
+        },
+        {
+            "name": "integration",
+            "positive": {
+                "count": 11,
+                "reviews": [
+                    "great integration with other google service",
+                    "easy integration into azure devops wth gcloud cli and terraform , clean easy to understand interface",
+                    "intuitive and efficient integration of everything needed for application development in one place",
+                    "really quick integration of service that i do n't wasnt to manage myself",
+                    "tight integration of suite of product and ability to have seamless and real time collaboration",
+                    "google cloud platform is the one of the best online storage service in the market today , it ha good documentation community support and good integration and configuration",
+                    "good integration and configurability",
+                    "also great integration with many third party tool for automation",
+                    "good integration between service , good pricing , stable environment",
+                    "deployment is very fast , integration is super easy and the additonal functionality that google cloud keep offering are amazing",
+                    "google provides great integration with on-campus authentication system"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "our initial integration was slow to ramp up , due to minimal documentation online"
+                ]
+            }
+        },
+        {
+            "name": "product",
+            "positive": {
+                "count": 31,
+                "reviews": [
+                    "google cloud platform is getting mature in the market a many product are supported",
+                    "overall , google cloud platform ha been a great product to use a a small developer",
+                    "supporting our gradual move to public cloud , while offering a constant set of innovative product and service",
+                    "google cloud platform ha many product listed under their service",
+                    "google ha provided a clear product roadmap that promise u constant upgrade and patch",
+                    "google ha many goood product one of the good product among them is google cloud",
+                    "my experience with this tool is wow i could say because if ha many product with in and the ability to build any network in couple of hour",
+                    "lot of thing have been improved over time especially google sheet which is one of the best product",
+                    "really a great product owned by google which provides cloud computing functionality sitting at remote location from the server",
+                    "easy to use cloud product for a variety of purpose",
+                    "some google cloud product have limited functionality which should be released in ga from the start , and there are obvious crack in acquisition",
+                    "google cloud ha some great product and implementation and is quickly providing everything we need to run a production environment",
+                    "these product feature free version , however our usage",
+                    "really good product",
+                    "gcp also allows u to spread our product across multiple cloud provider",
+                    "great innovation and rapid development of new product",
+                    "great product and fast delivery",
+                    "it 's a great experience work with gcp because the push a lot your innovation journey with a set of new product all year",
+                    "good product , i love cloud shell and the kubernetes implementation",
+                    "helpful and encouraging company & staff with first rate technical product whats the point in requiring a minimum of 100 character ?",
+                    "the ease of setup and low barrier to entry were significant in enabling our early experiment with kubernetes and other google cloud product",
+                    "still this is something new to the market but gcp ha it own advantage a compare to other cloud service product",
+                    "gke is an excellent product that make life easier on k8s",
+                    "good product , support and documentation",
+                    "it make development faster and integrates well with a wide range of google cloud product",
+                    "pricing is sometimes too high for sure , but this is the place where to run business critical product and application",
+                    "it is an excellent opportunity that many product are the revision of the open source one",
+                    "it allows our team to create great product on-premise , without the worry of how they will be deployed on the cloud",
+                    "i have alwasys felt google have shot themselves in the foot when it come to launching new cloud based product",
+                    "highly performing and cost effective iaa product",
+                    "according toe me it is not that great product"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "interface",
+            "positive": {
+                "count": 9,
+                "reviews": [
+                    "it is best known for it good user friendly interface",
+                    "so far i know , might be this is the cloud platform which is used by most of the organization because of it pricing , customization , user friendly interface and many more",
+                    "essential and user friendly cloud interface pro : 1 ) very user friendly 2 ) cost effective 3 ) open source and also allows easy switching from other service provider 4 ) allows easy application development directly on cloud 5 ) stable update which doe not",
+                    "easy integration into azure devops wth gcloud cli and terraform , clean easy to understand interface",
+                    "the web interface and command line tool are graat too",
+                    "excellent service , easy interface and ongoing tco wasy better than microsoft",
+                    "simple interface to administrate virtual machine , best performance and no delay to create or redeploy new machine",
+                    "everything ha worked well thus far user friendly great interface technology is effective and allows my staff to be productive in a time efficient manner",
+                    "excellent interface"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "interactive interface , which facilitates the use of the platform"
+                ]
+            }
+        },
+        {
+            "name": "security",
+            "positive": {
+                "count": 14,
+                "reviews": [
+                    "we are using this cloud platform because this is a great business service a well a a strong security point that help u to run our",
+                    "google cloud platform also provides high security over the instance and data on",
+                    "offered by google inc. with google 's security using cloud service becomes very secure",
+                    "google cloud ha the cloud security compliance , which is a fruitful in assuring the content stored is safe",
+                    "second thing is , the sharing of file and document ha been made easy with this cloud platform , that too with full security",
+                    "high security level all the data",
+                    "excellent program , which offer the user high security , practicality and great availability for data storage",
+                    "overall we see some difficulty in applying all enterprise security and connectivity requirement",
+                    "really good development experience , great security with the iap",
+                    "all in one , google cloud allows u to have all the tool for assessment , monitoring , billing , security , big data , etc",
+                    "they 've took massive effort to catch up with enterprise level security standard",
+                    "nice security & fine tuning option available",
+                    "nice security & fine tuning option available",
+                    "great security features.solid productivity feature"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "time",
+            "positive": {
+                "count": 17,
+                "reviews": [
+                    "google cloud platform is the best public infrastructure and platform service platform in this recent time",
+                    "at my organization , we are using gcp for a very long time and really like all the feature and function of this platform",
+                    "at my current organization , we have been using this for a very long time and really like the simple process of contract negotiation and onboarding",
+                    "google cloud platform is the go-to cloud option if you are planning to migrate your application from on-premise to the cloud for the very first time",
+                    "also we can use this in real time",
+                    "we use gcp service in very simple wasy , that is just simple vm instance with enough cpu/memory and storage to virtualize some component of our lte epc which are not require real time response like voice service",
+                    "being in a cloud business for a long time , we have used various service including aws and azure and recently we migrated",
+                    "it is very easy to use and if you are a first time user , it ha great user guidance",
+                    "it made real time change to cloud enabling my team member to work in real time",
+                    "good support an documentation but some product are not well maintained and are missing basic feature sine a long time ( e.g",
+                    "good time to market to start a solution bad",
+                    "tight integration of suite of product and ability to have seamless and real time collaboration",
+                    "transfer of local data to google storage is time taking running spark job on dataproc cluster is very easy",
+                    "ii a bit tricky to understand at the beginning , there is too much information for the service that make you get lost the first time you enter , but the tutorial in each scenario are wonderful",
+                    "gcp great for cloud coputing and data processing gcp make easy to analyse real time data and proceed further accordingly internt of thing using this pltform for proper differenciation in data",
+                    "great use for starting a new project and keeping track of important time sensative documentation by saving them on the cloud plateform and knowing that the document are secure",
+                    "everything ha worked well thus far user friendly great interface technology is effective and allows my staff to be productive in a time efficient manner"
+                ]
+            },
+            "negative": {
+                "count": 4,
+                "reviews": [
+                    "it automatically compress the data so that management file can be uploaded in a short time",
+                    "i am extremely satisfied by the customer support and the minimal response time for my query",
+                    "slow response time - response time could be fast easy to access and easy to use",
+                    "in a very short time we were able to put on the air a solution that would normally take a lot and cost a lot"
+                ]
+            }
+        },
+        {
+            "name": "process",
+            "positive": {
+                "count": 5,
+                "reviews": [
+                    "at my current organization , we have been using this for a very long time and really like the simple process of contract negotiation and onboarding",
+                    "2. it ha backup and recovery feature that streamline the internal process with more security and safety 3. it is a powerful platform that is",
+                    "keeping information and downloading data from google cloud is an incredibly quick process",
+                    "google ha a really talented pool of support resource and customer engineer who make the onboarding process easy",
+                    "using the gcp platform ha been a great experience , with straightforwasrd process for setting up and using the core ai building block ( vision & nlp )"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "performance",
+            "positive": {
+                "count": 13,
+                "reviews": [
+                    "deployed window server for admin panel and data base management , the over all product resource and management is good and can we easily change the hardwasre a required to the business and performance , ha wide range of option and cloud",
+                    "google cloud platform delivers great performance and is ready to deal with your big data problem on the go , for a reasonable price",
+                    "satisfactorily resolve traffic spike for high performance environment and offer a flexible payment model for customer",
+                    "gcp ( google cloud platform ) is an infrastructure-as-a-service sol'n and it is ready to deal with your big data problem and delivers great performance within your budget",
+                    "simple interface to administrate virtual machine , best performance and no delay to create or redeploy new machine",
+                    "tool very easy to use , with good performance and help u a lot in the routine here in the company , strongly recommend !",
+                    "gcp is affordable and ha solid performance , and google ha been adding data center at a breakneck pace",
+                    "great performance and no crush at all",
+                    "outstanding performance",
+                    "price affordable and performance good , suggested for enterprise use !",
+                    "i believe it is currently the best solution on the market a it pertains to pricing , performance , stability , scalability , backup , and security",
+                    "google cloud platform is an infrastructure a a service ( iaa ) solution that delivers great performance",
+                    "low latency/high throughput cloud storage compute feature - managed instance group , autoscaler rule high performance networking highly skilled solution engineer available for brainstorming and troubleshooting"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "migration",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "we 've had an excellent experience to date following a full migration of private datacenter infrastructure to gcp",
+                    "easy migration from our old cloud provider",
+                    "very easy migration and excellent documentation on available service"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "deployment",
+            "positive": {
+                "count": 8,
+                "reviews": [
+                    "we have migrated to this platform seeing it compatibility 's and integration option where it ha given best , deployment was a bit tricky because he had no agent trained on this platform however they deployed it easily using available learning source ,",
+                    "google cloud platform provides a great platform for cloud deployment of project",
+                    "quick and simple deployment of new application",
+                    "really nice to work with easy to get going with and really powerful set of tooling making deployment easy to do and manaage",
+                    "deployment sap infrastructure instance compute scheduler cloud function sap hana platform",
+                    "it 's easy to use and deployment was quick",
+                    "fantastic offering which provides a set of modular cloud-based service that allows faster development cycle by easy and fast deployment without much downtime there by assisting ramping up resource",
+                    "fantastic offering which provides a set of modular cloud-based service that allows faster development cycle by easy and fast deployment without much downtime there by assisting ramping up resource"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "functionality",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "our company 's need are very simple , functionality and security , and google together with all the",
+                    "really a great product owned by google which provides cloud computing functionality sitting at remote location from the server",
+                    "good end user experience on google suit given the number of new functionality we are using",
+                    "ha incredible functionality and is lacking in very few area"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "the functionality was awesome"
+                ]
+            }
+        },
+        {
+            "name": "system",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "google cloud platform provides all the cloud system management like cloud system creation domain name management , load balancing , data storage , cdn and vpn",
+                    "google cloud platform provides all the cloud system management like cloud system creation domain name management , load balancing , data storage , cdn and vpn",
+                    "google cloud platform offer same feature a of others but exceptional stuff is about open source system",
+                    "open source system are widely supported on google like pig , hive , hadoop , mysql etc"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "cost",
+            "positive": {
+                "count": 18,
+                "reviews": [
+                    "first and most every organization look for is , cost effective and it performance , this platform stand first in these two aspect",
+                    "cloud computing is the best wasy of managing our data in secure wasy there are so many provider were available aws , azure , sap have used all these will preffer gcp ( google cloud platform ) which is quite cost efficient while compared to the",
+                    "a per my experience using this platform is best and best , this is the cloud platform with cost effective and good storage space",
+                    "it easily accessible from anywhere in the global and it is cost effective",
+                    "gcp provides a cost effective solution for the same",
+                    "essential and user friendly cloud interface pro : 1 ) very user friendly 2 ) cost effective 3 ) open source and also allows easy switching from other service provider 4 ) allows easy application development directly on cloud 5 ) stable update which doe not",
+                    "is more cost effective than some , but ha the superior data analytics engine with a good cost model",
+                    "great experience , easy to handle.smooth working , time utilization , cost effective , broader scope ,",
+                    "the platform itself is pretty amazing , best value cost for performance and world class networking",
+                    "provides cost effective solution for development",
+                    "google cloud is well documented and easy-to-use overall , and cost effective especially at early stage of a product development",
+                    "i have used the platform for about 1 year now and most is working well , over all great service that doe not cost much",
+                    "google 's cloud platform is the wasy that it is extraordinarily easy to understand the information is very much scrambled and anchored , they have a reasonable cost , and past that , it adjusts to your requirement , depending on the off chance that you are",
+                    "google cloud is a cost effective alternative to aws depending on your requirement and use case",
+                    "we found it to be more cost effective than aws",
+                    "highly performing and cost effective iaa product",
+                    "google cloud is cost efficient for data storage",
+                    "google compute engine service are feature-rich , flexible , and cost effective"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "we are currently using google cloud platform to host database server belonging to our organization , since renting physical server was causing u excessive cost and downtime was greater"
+                ]
+            }
+        },
+        {
+            "name": "pricing",
+            "positive": {
+                "count": 9,
+                "reviews": [
+                    "transparent pricing which offer great value when starting out",
+                    "a really good platform that provides a lot of tool in regarding to infrastructure a a service , offering an easy to use and with great pricing compaired to other provider",
+                    "with good pricing compare to competitor",
+                    "easy to implement , good pricing ( including free quota for prototyping ) , and it is very well documented",
+                    "easy to implement , good pricing ( including free quota for prototyping ) , and it is very well documented",
+                    "flexibility of configuration and straight-forwasrd pricing made everything easy",
+                    "good integration between service , good pricing , stable environment",
+                    "good integration between service , good pricing , stable environment",
+                    "we had great support , a well a extremely good pricing"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "user",
+            "positive": {
+                "count": 34,
+                "reviews": [
+                    "one of the most simplest and most user friendly alternative for locating your file , pic and document",
+                    "it is a very user friendly platform which make transferring file to cloud fairly easy",
+                    "it is best known for it good user friendly interface",
+                    "it is best known for it good user friendly interface",
+                    "awesome experience with gcp : 1. user friendly 2. web-based 3. single gui",
+                    "the best part is that it give one year free trial to it new user , it ha also made it easier to access multiple project within",
+                    "so far i know , might be this is the cloud platform which is used by most of the organization because of it pricing , customization , user friendly interface and many more",
+                    "also using the workspace base , google cloud is more easily joined to a. a my company is using this platform from 5 year , i have been a active user of this platform",
+                    "i have been using this cloud platform since 5.5 year and it very user friendly and fully customized",
+                    "the deep learning platform is very user friendly and simple",
+                    "google cloud platform is the best among the cloud platform service providers.it provides a great user experience even for beginner and the fastest cloud service ever used",
+                    "it was good , the speed was good and the ui was user friendly but i expect more in term of performance a per the other tool available in the market",
+                    "excellent program , which offer the user high security , practicality and great availability for data storage",
+                    "once you get started you receive a 300 $ credit that go along wasy helping a user understand gcp feature",
+                    "it is very easy to use and if you are a first time user , it ha great user guidance",
+                    "essential and user friendly cloud interface pro : 1 ) very user friendly 2 ) cost effective 3 ) open source and also allows easy switching from other service provider 4 ) allows easy application development directly on cloud 5 ) stable update which doe not",
+                    "everything work fine , google cloud platform ir amazing , it is a really user friendly platform for every worker in my current company",
+                    "google offer an easy user experience and a great set of product and toolsets",
+                    "good end user experience on google suit given the number of new functionality we are using",
+                    "simple user interface",
+                    "the user experience was great",
+                    "they also have a lot of guide for new user",
+                    "google cloud platform ha by far the best user interface and ux of any cloud provider out there",
+                    "it 's intuitive , user friendly , extremely powerful , and we 've been able to ramp up to production code in a very short period of time",
+                    "it ha a lot of inbuilt api 's and additional help softwasre to guide new user",
+                    "it user friendly environment make it best cloud solution for u",
+                    "i found google 's gcp to be most user friendly , easy to setup",
+                    "reliable , scalable and user friendly cloud platform by google",
+                    "user friendly but have to customize a lot and not feasible like aws",
+                    "great user interface and documentation",
+                    "the most important thing about google 's cloud storage is the fact that it is incredibly user friendly ( they also have a lot of guide for new user ) , the data is well encrypted and secured , they have a fair price , and beyond that , it adapts to your need ,",
+                    "user friendly , accessible anywhere , collaborative !",
+                    "everything ha worked well thus far user friendly great interface technology is effective and allows my staff to be productive in a time efficient manner",
+                    "for the business productivity tool themselves , we did not go with microsoft because we had too many mac user",
+                    "which provide a awesome user interface from which we a non developer can"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "data",
+            "positive": {
+                "count": 45,
+                "reviews": [
+                    "google cloud platform offer service related to computing , storing , networking , big data and machine learning",
+                    "google cloud platform is a multifaceted service that provides business with specialized support across big data and analytics",
+                    "and google is wasy ahead in the machine learning , gke , big data department",
+                    "i manage a team of softwasre engineer who us the google cloud computing platform extensively for our web-based project that usually involve strong data analysis and computation my overall experience ha been okay , i wo n't say that we",
+                    "a suite of cloud computing solution offered by google , google cloud platform ( gcp ) is definitely a game-changer in the cloud data management space",
+                    "using google cloud platform my organization solved two main problem creating an architecture design for a big data wasrehouse and using document al to analyze contract to exact",
+                    "google cloud platform offer secure on and off premise data backup , this can be retrieved anytime from the secure google server",
+                    "google cloud platform help u to harness the power of ai and big data",
+                    "besides , google cloud ha the capacity of holding a big data , which is essential , and it facilitates the preparation of different content",
+                    "it strong data analytics and storage is best",
+                    "this provides best cloud facility which ensure secure reach of data base",
+                    "this protects my organizational mail , data base and client application with end to end security",
+                    "this platform ha provided great cloud facility with best architecture data base storage",
+                    "this platform ha provided great cloud facility with best architecture data base storage",
+                    "it offer high data security",
+                    "personally , i felt gcp is great for low latency micro service and big data processing",
+                    "there is room for improve transfer large data but other than that it is alwasys recommended go to",
+                    "a modern cloud platform offering a wide suite of powerful data analytics tool , extremely scalable and customizable machine type",
+                    "infrastructure of the sever is amazing performs great never faced any down time after moving to this application we have been deploying multiple application and data base to this and it never dropped it performance it run at peek level to give you",
+                    "we are using this since 2 year for our big data management",
+                    "deployed window server for admin panel and data base management , the over all product resource and management is good and can we easily change the hardwasre a required to the business and performance , ha wide range of option and cloud",
+                    "it ha support for ai and big data that is a great thing",
+                    "we have started using google cloud platform in order to move our big data from on premise to cloud",
+                    "strong package for delivering big data and data science",
+                    "gcp platform give u an advanced speed of processing for high end data with better",
+                    "the storage setting allow important data to be saved automatically which is beneficial during softwasre and hardwasre reset or alteration",
+                    "i have been using the google service since last so many year , a all my important data like image and other application data are saved on google , where i am 100 % worry-free that whether i lost my device or change my device my data is secured with",
+                    "a nicely setup and organised system where you can select , preview , and see the table and data base you are working on , which is not possible in most",
+                    "everything you need to build and scale , compute virtual machine , networking , big data , data transfer , api platform & ecosystem",
+                    "a lovely and easy wasy to keep the data safe and can get access to it on when ever needed",
+                    "big data product are really well and useful for huge data processing but iam access management are still need to improve. lot of clarification needed for access management",
+                    "i have to say google cloud is really a good product.it make data secure in cloud with a backup option option to retrieve data if lost",
+                    "is more cost effective than some , but ha the superior data analytics engine with a good cost model",
+                    "all in one , google cloud allows u to have all the tool for assessment , monitoring , billing , security , big data , etc",
+                    "google cloud platform delivers great performance and is ready to deal with your big data problem on the go , for a reasonable price",
+                    "gcp ( google cloud platform ) is an infrastructure-as-a-service sol'n and it is ready to deal with your big data problem and delivers great performance within your budget",
+                    "with it very easy-to-use bigquery & big data analysis",
+                    "google cloud platform is a comprehensive cloud offering with a particular strength in machine learning and big data feature",
+                    "big query is the fastest big data handling technology out there",
+                    "is the perfect choice for company with growing big data and ai need",
+                    "google cloud platform offer service for compute , storage , networking , big data , machine learning and the internet of thing ( iot ) , a well a cloud management , security and developer tool",
+                    "it ha been an incredible experience with google so far , it ha alwasys kept my data safe and secure",
+                    "not the best for iaa but better for turn key big data",
+                    "it is also capable to perform big data processing and analysis by using hadoop platform",
+                    "due to it big data management ,"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "our daily report which deal with large complex data has been really upgraded with an higher speed of working platform which is gcp"
+                ]
+            }
+        },
+        {
+            "name": "server",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "google cloud platform is very good very stable and fast provision the server , public ip assignment , moving server cross-region , and scalable , backup restore very fast , no worry about public ip , security , server down , everything we concern google cloud",
+                    "previously my system running on the local , it have many probem i need to take care server , internet connection firewasll , and air-con , ups",
+                    "we are using this virtual server creation and hosting any application in this virtual machine",
+                    "i am currently developing a project on the google cloud server which is very good , it offer me a variety of very tempting integrated feature , on the other hand the cost for consumption and use of some feature can become high , so i recommend"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "document",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "google cloud platform is the best thing that we had for our organization , we have all our document safe & secure on the cloud with zero downtime & high reliability",
+                    "within my organization daily i have to work with multiple document and file"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "analytics",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "it has strong analytics and storage service",
+                    "protect your data with multilayered security and also help in decision-making with intelligent analytics in built",
+                    "it let you use all these amazing google apis from database to analytics , cloud storage to big query"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "documentation",
+            "positive": {
+                "count": 19,
+                "reviews": [
+                    "it ha very good documentation and support for developer",
+                    "with the plethora of service & user along with good documentation & course available gcp ha a. google cloud platform provides many service such a compute , storage , database and others which is very reliable for customer who is planning to move to cloud",
+                    "easy to find out service with proper documentation starting from introduction to working code example",
+                    "google had provide documentation to set up the overall process",
+                    "good documentation and easy to get to grip with the platform",
+                    "easy to start working with almost everything in the cloud thanks to superb documentation",
+                    "easy to use , clear documentation , good course available online to learn about the functionality of the product",
+                    "easy to use , clear documentation , good course available online to learn about the functionality of the product",
+                    "good documentation an easy to get started",
+                    "the technical documentation is good with useful example",
+                    "great documentation and training available a well a lot of service",
+                    "google cloud platform is the one of the best online storage service in the market today , it ha good documentation community support and good integration and configuration",
+                    "very easy migration and excellent documentation on available service",
+                    "google ha extensive documentation with example for all the tool , it provides",
+                    "good documentation with a broader amount of region available than other player",
+                    "good documentation",
+                    "they have fantastic documentation , their product are super easy to deploy , and they employ very user-friendly workflow",
+                    "great technology with clear documentation",
+                    "due to excellent documentation and video tutorial by google"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "our initial integration was slow to ramp up , due to minimal documentation online"
+                ]
+            }
+        },
+        {
+            "name": "technology",
+            "positive": {
+                "count": 7,
+                "reviews": [
+                    "i 've been really impressed with the product available for u to leverage ; additionally the documentation is comprehensive and clear - which alwasys make learning new technology a much nicer experience",
+                    "innovative technology and service",
+                    "no problem since yet , everything worked well , great technology",
+                    "google cloud team ha been an exemplary technology partner",
+                    "great technology with clear documentation",
+                    "you get access to vms , so developer have adequate flexibility it 's fully scalable and support multiple framework , language , and tool excellent networking technology azure integrates well with the principal microsoft on-premise system",
+                    "everything ha worked well thus far user friendly great interface technology is effective and allows my staff to be productive in a time efficient manner"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "environment",
+            "positive": {
+                "count": 6,
+                "reviews": [
+                    "your application have to be prepared to run on cloud environment for you to have this benefit",
+                    "satisfactorily resolve traffic spike for high performance environment and offer a flexible payment model for customer",
+                    "it user friendly environment make it best cloud solution for u",
+                    "google cloud ha a great environment for developer ' apis with well-commented section",
+                    "good integration between service , good pricing , stable environment",
+                    "the staff is adjusting well to the new environment"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "team",
+            "positive": {
+                "count": 8,
+                "reviews": [
+                    "the support from a local google cloud team was extraordinary and far beyond our expectation",
+                    "google cloud team ha been an exemplary technology partner",
+                    "technology is fantastic , enterprise support keep growing , interaction with technical team over other cloud provider is exceptional",
+                    "google cloud ha been a wonderful team to work with for developing and implementing solution for low-resource hospital in developing country that lack radiology it infrastructure",
+                    "google offer you this platform to storage lot of data and share it with your team work easy and quickly",
+                    "great for data flexibility , scalability and collaboration with remote team",
+                    "google 's cloud team is very technical , lack corporate engagement savviness but they often make up in their technically capability",
+                    "google was patient with u a we made this transition and worked with our legal team to make thing work"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "compute",
+            "positive": {
+                "count": 7,
+                "reviews": [
+                    "google cloud platform is an amazing cloud service provider that support a variety of service like compute engine , kubernetes , cloud function , cloud sql , and a lot more",
+                    "everything you need to build and scale , compute virtual machine , networking , big data , data transfer , api platform & ecosystem",
+                    "simple and easy compute scaling , allowing u to meet business the demand of customer with little to no notice",
+                    "deployment sap infrastructure instance compute scheduler cloud function sap hana platform",
+                    "overall satisfactory ; dashboard and billing to be improved , filters/reporting are not flexible enough ; optimization of compute needed",
+                    "i have the compute engine & cloud function , firestore for my backend",
+                    "good compute engine with competitive feature and pricing"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "issue",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "i had many issue with data security and noticed the lack of elastic",
+                    "a an organization it is important to coordinate and share thing easily i think with the google cloud platform this objective is completed easily , a with time organization grow also and with this service scaling not a big issue , also it came with $ xx credit",
+                    "were yet to find any real issue with it and we find it really useful on the whole",
+                    "there were some issue early on regarding maturity of the service and application catalog"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "access",
+            "positive": {
+                "count": 10,
+                "reviews": [
+                    "document storage is the biggest reason to use gcp along with easy access anywhere in the world",
+                    "the best part is that it give one year free trial to it new user , it ha also made it easier to access multiple project within",
+                    "it is really a very useful one for all the product to get easy access when we are searching for or expecting some result",
+                    "some of the good feature of this platform is the organization and project hierarchy combined with iam permission make security and access easy",
+                    "google 's extensive cloud platform ha enabled the quick access and sharing of complicated service across different industry vertical to be quite easy and robust",
+                    "with google cloud , the team are even able to access necessary file from their",
+                    "one of the best solution on the market with easy access , uncomplicated storage and use of centralized application in one place",
+                    "one of the best solution on the market with easy access , uncomplicated storage and use of centralized application in one place",
+                    "we use google cloud platform to host our infrastructure - it give u easy access to any amount of cpu and ram we need to scale quickly our business , to monitor on daily basis and to prototype new solution so we may decide quickly on the wasy to grow",
+                    "distinct storage class for fast access to file"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "capability",
+            "positive": {
+                "count": 5,
+                "reviews": [
+                    "we have successfully utilized gcp 's many capability for data ingestion ,",
+                    "it is an easy and very intuitive plataform to use , it give u great computing capability and allows u to deploy new instance of machine with more or le computing power depending on the need we have thanks to this solution we are able to migrate",
+                    "gcp is evolving and ha made quite a few excellent capability available to customer now but they do have some ground to cover when it come to security for enterprise customer and focus on area such a encryption , dlp , visibility , compliance and",
+                    "we currently work together with google to improve their offering but they could improve a little on the delivery date for new capability",
+                    "it ha not been a smooth a our work in aws but the future technical capability and the planned cost saving have made up for the rough spot"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "support",
+            "positive": {
+                "count": 31,
+                "reviews": [
+                    "google cloud platform is a multifaceted service that provides business with specialized support across big data and analytics",
+                    "great experience till now a google cloud platform is very powerful with excellent support to linux and window",
+                    "it provide support to group of service",
+                    "it wide support for various gcp product and g-suite apps ha helped me find innovative solution and explore new idea",
+                    "support was good in the beginning but a we got deeper into deployment and implementation there were some breakdown on the communication on both side , but overall no major hiccup",
+                    "google cloud platform provides a lot of feature from product hosting , backend db support , web asset repository , container etc",
+                    "i have been using google cloud platform 6 month ago to support sap s/4 hana infrastructure , gcp is awasrded the tender selection compete with aws and hana enterprise cloud , there are several criterion that make gcp is superior then others , for",
+                    "good support during cloud journey",
+                    "great support from the google engineering team when building solution",
+                    "good support for declarative approach",
+                    "good support platform for window and linux",
+                    "google cloud platform ha ease of use & great support from expert thst allowed the onboarding to be efficient and effective",
+                    "great support and capability , super fast and reliable a well",
+                    "very good customer support and service",
+                    "good support an documentation but some product are not well maintained and are missing basic feature sine a long time ( e.g",
+                    "good scalability and processing power , excellent support from google",
+                    "training is great , good support , platform keep evolving , good mix of enterprise / non-enterprise feature",
+                    "good support and easier to migrate our existing service",
+                    "good support",
+                    "strong community support",
+                    "great customer support and ease of use",
+                    "technology is fantastic , enterprise support keep growing , interaction with technical team over other cloud provider is exceptional",
+                    "great linux and lamp support , good fit for devops and prototyping",
+                    "while one issue ha been lack of direct support , a range of third party partner start providing this service",
+                    "we had great support , a well a extremely good pricing",
+                    "gce ha great kubernetes support and provides k8s a service",
+                    "you get access to vms , so developer have adequate flexibility it 's fully scalable and support multiple framework , language , and tool excellent networking technology azure integrates well with the principal microsoft on-premise system",
+                    "quites agile and powerful platform , but not yet fully matured to support serious enterprise application",
+                    "customer support provides also good experience",
+                    "technical support is minimal and somewhat expensive",
+                    "great customer support"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "it is workable but within china there are little support"
+                ]
+            }
+        },
+        {
+            "name": "file",
+            "positive": {
+                "count": 6,
+                "reviews": [
+                    "with google cloud i can archive my important file if i am not at my desk",
+                    "google cloud platform make sharing large file quite easy and convenient",
+                    "unlimited storage capacity with fast and reliable file conversion for our microsoft product ha been great",
+                    "with google cloud , the team are even able to access necessary file from their",
+                    "it is a perfect solution for all type of business , a it allows you to buy a domain name , set up corporate email , use goodle drive for storing and sharing all the file necessary , and use a bunch of great apps like document , sheet , calendar , etc for",
+                    "storage facility is the best thing , resolution drop down over multiple medium file analysis of the same is needed"
+                ]
+            },
+            "negative": {
+                "count": 3,
+                "reviews": [
+                    "google cloud storage is one of the simplest and easiest to use option for finding old file , document , and photo",
+                    "it provides the ability to solve all the problem with arranging and eliminating previous file",
+                    "simplest and easiest to use option for finding old file , document and photo"
+                ]
+            }
+        },
+        {
+            "name": "resource",
+            "positive": {
+                "count": 7,
+                "reviews": [
+                    "google cloud platform provides the required computing resource which are needed to deploy , develop a well a run application on internet",
+                    "although the platform ha a steep learning curve , it ha great resource to get started with the platform and perform everyday cloud task",
+                    "the platform ha wide cloud resource availability with an intuitive and easy-to-use interface",
+                    "it is really wondeful experience with google cloud service with all feature at one place with single clik , easy to scale up or down with multiple resource with easy to use instruction",
+                    "a very good plataform that help all the team work together with security and many resource in the same place",
+                    "the daily free resource are another great",
+                    "by adding and removing virtual machine only when needed , scalable apps only consume the resource necessary"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

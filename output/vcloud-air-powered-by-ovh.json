@@ -1,0 +1,59 @@
+{
+    "name": "vCloud Air powered by OVH",
+    "features": [
+        {
+            "name": "support",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the virtual support team do not adhere to upgrade best practice"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "product",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "great product",
+                    "overall the product was good"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "vmware",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "vmware 's was smart in building/offering a best-of-breed cloud subscription service that could compete in the enterprise cloud arena",
+                    "the initial contact with vmware was productive and useful to understand their product offering"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "file",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the perfect build internal network connection allowed a spectacular high-speed file transfer"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

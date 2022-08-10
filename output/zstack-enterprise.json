@@ -1,0 +1,201 @@
+{
+    "name": "ZStack Enterprise",
+    "features": [
+        {
+            "name": "development",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "with the rapid development of business , enterprise have increasing demand on computing and storage"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "cost",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the architecture is streamlined and compatible , suitable for rapid deployment and ha low implementation cost , and support seamless upgrade"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "function",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "zstack is powerful , lightweight deployment , core open source , rich version planning to meet the business need of a variety of customer , provide powerful private cloud function and flexible bare metal management , enterprise",
+                    "cloud product are powerful function and satifly the operation of existing business"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "deployment",
+            "positive": {
+                "count": 6,
+                "reviews": [
+                    "rapid deployment , ease of use , and support for any x86 architecture have greatly improved our productivity",
+                    "rapid deployment and ease of use , and support for any x86 architecture , the legacy of strong saving for u",
+                    "before using zstack solution , we have tested product of many brand in the market for a long time and finally choose zstack product , because of it product stability , ease of use and rapid deployment environment , which make u very comfortable to use",
+                    "zstack is powerful , lightweight deployment , core open source , rich version planning to meet the business need of a variety of customer , provide powerful private cloud function and flexible bare metal management , enterprise",
+                    "zstack ha a strong ability to recycle old product , simple deployment , flexible capacity expansion , and one-click upgrade without affecting the business , which play a very good role in our digital transformation",
+                    "the architecture is streamlined and compatible , suitable for rapid deployment and ha low implementation cost , and support seamless upgrade"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "management",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "by calling the api interface of zstack , the private cloud is gathered into the cloud management platform"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "product",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "zstack service experience is good , product and technical team is very professional , in the speed and time to deal with the problem is very guaranteed",
+                    "zstack ha a strong ability to recycle old product , simple deployment , flexible capacity expansion , and one-click upgrade without affecting the business , which play a very good role in our digital transformation",
+                    "cloud product are powerful function and satifly the operation of existing business",
+                    "is a flexible and usable cloud product , to improve our business process"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "zstack has a strong ability to recycle old product , simple deployment , flexible capacity expansion , and one-click upgrade without affecting the business , which play a very good role in our digital transformation"
+                ]
+            }
+        },
+        {
+            "name": "resource",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "zstack provide build complete iaa cloud computing platform solution , for business customer a complete heterogeneous locations/management platform , cloud computing resource for the future of intelligent data center , through the provision"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "time",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "before using zstack solution , we have tested product of many brand in the market for a long time and finally choose zstack product , because of it product stability , ease of use and rapid deployment environment , which make u very comfortable to use",
+                    "zstack cloud platform product ha solved the problem of server deployment in our company for a long time"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "data",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "zstack provide build complete iaa cloud computing platform solution , for business customer a complete heterogeneous locations/management platform , cloud computing resource for the future of intelligent data center , through the provision"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "stability",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "zstack ha high stability and solves many of our problem",
+                    "zstack ha high performance and strong stability"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "performance",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "zstack has high performance and strong stability"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "maintenance",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "i was impressed by the 4 feature of zstack , especially it simplicity , easy installation and easy maintenance , which brought u a lot of convenience"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "process",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the experience of the whole process is very good , from the establishment of cluster , host addition , storage , network creation , and finally the start of cloud host , the whole process is very smooth and fully meet the need of the company"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "source",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "zstack is powerful , lightweight deployment , core open source , rich version planning to meet the business need of a variety of customer , provide powerful private cloud function and flexible bare metal management , enterprise",
+                    "highly product-oriented open source cloud platform , quality assurance"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

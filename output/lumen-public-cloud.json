@@ -1,0 +1,45 @@
+{
+    "name": "Lumen Public Cloud",
+    "features": [
+        {
+            "name": "vision",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "centurylink has a great vision and we believe in that vision"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "support",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "however , i had nothing to be worried about : the cloud is easy to navigate , and technical support has been great"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "management",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "centurylink cloud offer secure enterprise cloud service ideal for business apps , iaa , paas , saas , dbaas and cloud management",
+                    "the technical team was very good , and the management portal was fairly easy to"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

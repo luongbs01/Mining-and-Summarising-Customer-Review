@@ -1,0 +1,169 @@
+{
+    "name": "Oracle Cloud Infrastructure (Gen 2)",
+    "features": [
+        {
+            "name": "support",
+            "positive": {
+                "count": 18,
+                "reviews": [
+                    "the capability are top notch with a great technical support system",
+                    "it ha good support in term of",
+                    "excellent and highly resilient infrastructure and real time technical support",
+                    "excellent support to implement cloud solution",
+                    "good support",
+                    "- easy to use/ integrated and managed in oracle cloud infrastructure - good support from oracle team - relatively fully integrated service",
+                    "ease of operation , good support from the oci team , having multiple option wrt service offering which enables to manage tco within budget/limits",
+                    "oracle oci environment is scalable , secure and add capability to our organization quickly to support new service for our customer",
+                    "oracle a a whole provides good support to u when we need clarification or guidance on how to proceed next whenever we need help",
+                    "very good customer support through customer success team con : service oriented to their own stack , e. g. there is n't postgres",
+                    "high performance environment with some technical support difficulty",
+                    "excellent support and implementation service with dedicated resource and success manager to ensure effective and timely implementation",
+                    "post go live support is excellent",
+                    "our organization 's experience in migrating the tax landscape to oci was excellent and had full support from the vendor and technical partner",
+                    "great support in our journey to cloud",
+                    "competitor have technical support in brazil and oracle doe not have support engineer in brazil , but in any case at the beginning of the project we had all the support from oracle in brazil",
+                    "integration option were feasible and support was good",
+                    "fast and easy setup for our project team , good support from oracle and partner : high experience staff and good reactivity"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "issue",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "it was a good experience overall and the solution is stable , not many issue been reported after the deployment",
+                    "we are constantly having to escalate to get support issue resolved"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "i received great assistance during the oracle migration to the cloud from oracle team member that helped make the transition transparent with minimal issue"
+                ]
+            }
+        },
+        {
+            "name": "time",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "excellent and highly resilient infrastructure and real time technical support",
+                    "excellent and highly resilient infrastructure and real time technical support"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "there are some great capability available in oci that would help to develop and deploy advanced solution in a short time to market"
+                ]
+            }
+        },
+        {
+            "name": "product",
+            "positive": {
+                "count": 10,
+                "reviews": [
+                    "they came up with some unique product which ha helped me and my organization to adopt some enterprise level solution",
+                    "it was incredibly straightforward to evaluate oracle cloud using their free forever product",
+                    "mostly this is an oracle cloud product",
+                    "this was the first experience in a cloud product",
+                    "that will bring everyone to know oracle cloud infrastructure product and service",
+                    "indeed an outstanding product which fit into the customer need",
+                    "good product , le support , not many experience , so i start learning about",
+                    "good product , le support , not many experience , so i start learning about",
+                    "great , thank you for making a great product and your service",
+                    "we chose oci because our value driver is not managing database or infrastructure issue but rather using oracle 's infrastructure to create a robust product for our client that utilizes data and database to create more supply chain transparency and"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "performance",
+            "positive": {
+                "count": 7,
+                "reviews": [
+                    "oci provided excellent performance and feature with exadata cloud service , though their iaa offering leaf some room for",
+                    "oracle cloud service are not so difficult to use , it provides high performance",
+                    "oci is cloud service platform that allow u to construct and execute various application in a highly available and high performance environment",
+                    "oracle cloud infrastructure provides the best performance available in the market , optimal performance and lowest cost",
+                    "pro : very stable infrastructure and very good performance with affordable price",
+                    "high performance environment with some technical support difficulty",
+                    "the tool is scalable , predictable performance and consistent for our environment"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "data",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "oci and usage of the autonomous data warehouse give the possibility to very easy-to-use access and set up",
+                    "it is an incredibly powerful infrastructure platform with great security and geared towards solving big data ,",
+                    "the oci gen 2 worked well especially with adw , oac and data safe configuration"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "team",
+            "positive": {
+                "count": 14,
+                "reviews": [
+                    "the support team are excellent in their work",
+                    "oracle support team is very professional and knowledgeable",
+                    "in addition , oracle ha been close to our technical team",
+                    "a good course with a good team",
+                    "competent technical team to support u in our challenge",
+                    "the technical team was good at what they were presenting",
+                    "the technical team was good at what they were presenting",
+                    "good and spontaneous support provided by support team a well a product coordinator and account manager , easy to use , good documentation and online help",
+                    "the service is resilient and the support from the regional team was always excellent",
+                    "when we had question about the architecture , the support from the oracle technical team ha been quick and efficient",
+                    "then we received clarification from oracle support team to use",
+                    "oracle startup team provided excellent service and support",
+                    "fast and easy setup for our project team , good support from oracle and partner : high experience staff and good reactivity",
+                    "they had a real amazing development team and their product is stable"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "database",
+            "positive": {
+                "count": 8,
+                "reviews": [
+                    "autonomous database service are apt and efficient",
+                    "oracle is the best database service management provider , good stuff",
+                    "oracle is the best database service management provider , good stuff",
+                    "multiple database sp and good to be used a to backup",
+                    "gleaning timely insight from our massive data stream ha become a huge challenge , impacting key business decision , with oracle 's ai / ml powered autonomous database and analytic cloud service we gained the ability to perform faster , deeper",
+                    "atp is a great cloud service integrating the most powerful database and low code application development tool apex",
+                    "used for our big database project where we need to process million of transaction securely",
+                    "we also opted for the autonomous database and self-repairing service option which"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

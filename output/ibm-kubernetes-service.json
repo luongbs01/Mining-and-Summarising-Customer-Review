@@ -1,0 +1,115 @@
+{
+    "name": "IBM Cloud Kubernetes Service",
+    "features": [
+        {
+            "name": "product",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "it greatly increased the infrastructure and the speed to launch new product and feature into the marketplace",
+                    "kubernetes is the gold standard for container orchestration software and we decided to go with ibm cloud kubernetes service since we use other ibm cloud product",
+                    "while my experience is quite limited , the workshop showed me that it 's a solid product , worth considering when choosing where to run kubernetes",
+                    "in our company , we have two major product with three environment ( dev , staging , and production )"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "container",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "we thought that cloud container would be better for deploying blockchains and working on them"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "data",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "we are using the ibm k8s service to handle user-submitted private data"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "server",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "we had been using ibm cloud virtual server for a long time for all of our compute workload"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "environment",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "we can also have a secure environment in which we can implement a ci cd workflow for the docker container",
+                    "using kubernetes in our company allows u to manage multiple environment easily"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "workload",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "we use it to run cpu intensive workload and ui website"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "process",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "it automates our whole process of software development"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "currently , we are using it a the primary architecture for our ui and a few of our complex processing process ( pseudo batch processing )"
+                ]
+            }
+        },
+        {
+            "name": "deployment",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "i 'm currently trialing out ibm cloud kubernetes service a part of my independent testing since our platform uses kubernetes as our primary deployment method for our paas"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

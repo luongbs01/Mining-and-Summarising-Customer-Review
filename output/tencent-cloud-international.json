@@ -1,0 +1,47 @@
+{
+    "name": "Tencent Cloud - International",
+    "features": [
+        {
+            "name": "capability",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "strong capability in scaling and negotiable contract"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "product",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "tencent cloud provided good product and service which helped u a lot to improve efficiency of digital marketing",
+                    "tencent cloud provided secure and integral product and cloud service , which helped u to save deployment time from 1 year to half a year",
+                    "tencent cloud is an excellent partner provide great product and service"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "expertise",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "one of the leader in gaming and have more than 20+ year experience in technical expertise in gaming , cloud computing service , music , payment and many more",
+                    "with 20+ year of experience in technology and being world biggest gaming company , tencent 's experience and technical expertise in gaming inside"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

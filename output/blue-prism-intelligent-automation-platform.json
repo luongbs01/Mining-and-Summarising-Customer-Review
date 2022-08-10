@@ -1,0 +1,19 @@
+{
+    "name": "Blue Prism Intelligent Automation Platform",
+    "features": [
+        {
+            "name": "system",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "we utilize blue prism in a variety of scenario , including bridging salesforce apps , integrating legacy sap system with modern database , and automating hr and financial operation to decrease human error",
+                    "it 's a fast rpa adoption method and the custom feature provided , especially the smart queue system which is extremely useful for our business"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

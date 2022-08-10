@@ -1,0 +1,128 @@
+{
+    "name": "Oracle Private Cloud",
+    "features": [
+        {
+            "name": "product",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "best product a i can expect and very easy to manage it amazing",
+                    "extremely good product and service"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "api",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "nice api , stable , regional support and easy to monitor"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "cost",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "i found oracle oci service exceedingly cost effective , efficient and robust that work around the clock seamlessly"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "information",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "proper information with practical information and the paper work is also available to practice on your own with the free account available to u by the oracle team ,",
+                    "my organization operates on very critical information and service and to secure that service we used oracle",
+                    "buggy tool that are hard to get the right information out of to fix or at least support them"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "manage",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "integrated wire once software-defined infrastructure system that simplifies the way customer install , deploy , and manage virtual environment for any linux , oracle solaris or microsoft window application"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "issue",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "many outstanding issue that oracle just do n't seem to be interested in fixing"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "environment",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "integrated wire once software-defined infrastructure system that simplifies the way customer install , deploy , and manage virtual environment for any linux , oracle solaris or microsoft window application",
+                    "elastic environment enabled u to be more agile and flexible"
+                ]
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "i liked it interactive environment , but it seemed a bit complicated when entering the unit of my requirement for the shopping area"
+                ]
+            }
+        },
+        {
+            "name": "downtime",
+            "positive": {
+                "count": 0,
+                "reviews": []
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "migration is handled easily with minimum downtime"
+                ]
+            }
+        },
+        {
+            "name": "account",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "proper information with practical information and the paper work is also available to practice on your own with the free account available to u by the oracle team ,"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

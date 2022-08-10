@@ -1,0 +1,201 @@
+{
+    "name": "Oracle Cloud Infrastructure (Gen 1) (Legacy)",
+    "features": [
+        {
+            "name": "process",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "we also planned to implement rpa solution to make the process effective"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "network",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "oracle cloud infrastructure ha excellent network monitoring ability , which effectively manages network traffic , providing [ an ] excellent experience to the user"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "performance",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "the performance easy monitoring functionality are also useful , and data detection capability with oracle cloud infrastructure is the best",
+                    "this addressed reduced cost , high performance , high availability , security , auto patching , backup , and easy pathway to upgrade application",
+                    "iop can be decreased or increased based on the need and required performance"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "compute",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "always free cloud compute is easy and fast to setup and very beginner friendly",
+                    "we use oracle cloud infrastructure compute for spinning up linux and window server instance to provide development , preproduction , and uat environment for the individual to test their web application to ensure they 're working correctly , enhance production delivery , and create instance without worrying about infrastructure",
+                    "we use oracle cloud infrastructure compute to test and give recommendation to our client",
+                    "also we use oracle cloud infrastructure compute inside the company to practice and build laboratory with our team"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "database",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "easy to store database , easy to maintain",
+                    "oracle cloud infrastructure provides u with capability to effectively use multiple autonomous database and threat detection functionality , which allows u to keep our customer ' data very secure from cyber threat",
+                    "we implement oracle cloud infrastructure for our customer -- primarily apex on autonomous database and object storage"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "product",
+            "positive": {
+                "count": 3,
+                "reviews": [
+                    "the oracle cloud infrastructure product allow u to easily push out patch , assist our user , and scale up when needed - all at a great price !",
+                    "we use this for multiple product and i use it to work on the oracle analytics cloud - essbase product",
+                    "we are using oracle cloud iaa across the whole organization to deliver new product for client quickly"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "team",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "oracle brought in their product management and technical team in full force and heard u",
+                    "this ha enabled u to quickly address prospect concern while also providing internal comfort to our on technical team to accurately address those concern"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "environment",
+            "positive": {
+                "count": 5,
+                "reviews": [
+                    "the on-prem bare-metal oracle vm provided a high level of elasticity and on-demand scalability , which is exceptionally suitable for our high throughput environment",
+                    "it offer a secure connection environment for faster and more reliable cloud deployment",
+                    "the cloud environment provided to the customer is secure and reliable [ for ] easy sharing and transferring of different data and other various information , and easy data management",
+                    "in our project , we worked on creating a new design for an application where we are moving our existing solution to a cloud environment",
+                    "we started using oracle govt cloud gen1 a a pilot since it 's inception and we were very new to this cloud environment at the time"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "system",
+            "positive": {
+                "count": 4,
+                "reviews": [
+                    "in the company i used to work for , most of the infrastructure is on premise , the cultural shift to cloud based system is still in progress , so since we renewed the user licence agreement with oracle , we received some point to be used with oracle cloud",
+                    "the cloud capability that are offered by the oracle cloud infrastructure system [ are ] fantastic",
+                    "it is important for u to have some storage which support nfs file system and others that are not structured",
+                    "oracle identity and access management is the single system being used in our company for all identity and access management related us"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "data",
+            "positive": {
+                "count": 5,
+                "reviews": [
+                    "goal was to shut down our entire data center",
+                    "we use the oracle cloud infrastructure to move the entire data center to the cloud",
+                    "oracle cloud infrastructure is a powerful and effective cloud solution that allows application developer to easily deploy various application by managing potential data from customer in addition to personal data",
+                    "excellent cloud operational platform and the most effective data scanning system",
+                    "we used oracle cloud infrastructure for our project , including oracle autonomous data warehouse"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "cost",
+            "positive": {
+                "count": 7,
+                "reviews": [
+                    "the benefit we have seen are highly available , scalable , and robust infrastructure at a low cost a compared to other provider in the market",
+                    "it 's a highly powerful load-balancing tool and the best cost analytics platform",
+                    "we were working on a poc for data mining , and we needed a lot of computation power at a decent cost",
+                    "historically genpact used to maintain their own hardware in data center which was expensive and maintenance cost was high",
+                    "customer is delighted because of consumption based pricing model which is very much cost effective and reliable when compared with any other cloud provider in the market",
+                    "customer is delighted because of consumption based pricing model which is very much cost effective and reliable when compared with any other cloud provider in the market",
+                    "this addressed reduced cost , high performance , high availability , security , auto patching , backup , and easy pathwasy to upgrade application"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "access",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "cloud infrastructure was particularly useful for storing several iteration of different simulation and helped put them in a localized area that did n't necessarily require remote access softwasre"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "security",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "my organization planned to migrate from legacy system for better scalability , faster development , better compliance , and robust security"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}

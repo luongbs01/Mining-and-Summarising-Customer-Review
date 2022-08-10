@@ -1,0 +1,110 @@
+{
+    "name": "Skytap",
+    "features": [
+        {
+            "name": "connection",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the best reason to use skytap private network connection is that it enables hybrid architecture without sacrificing application performance and reliability"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "migration",
+            "positive": {
+                "count": 2,
+                "reviews": [
+                    "skytap manages to transfer data faster for efficient workload migration and bypass your internet service provider for reliable , faster network performance",
+                    "in our organization , although the average migration to the cloud ha always been seen a a desire for time and the complication it represents"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "setup",
+            "positive": {
+                "count": 0,
+                "reviews": []
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "the interface is extremely easy to use , while also providing some advanced capability to allow flexibility in creating complex setup"
+                ]
+            }
+        },
+        {
+            "name": "time",
+            "positive": {
+                "count": 0,
+                "reviews": []
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "all in short time according to the offer presented"
+                ]
+            }
+        },
+        {
+            "name": "network",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "the best reason to use skytap private network connection is that it enables hybrid architecture without sacrificing application performance and reliability"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "environment",
+            "positive": {
+                "count": 0,
+                "reviews": []
+            },
+            "negative": {
+                "count": 1,
+                "reviews": [
+                    "we did , however , run into some initial roadblock with performance when complex environment were created"
+                ]
+            }
+        },
+        {
+            "name": "team",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "skytap is a shared environment which multiple team can use at the same time for development and testing purpose"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        },
+        {
+            "name": "version",
+            "positive": {
+                "count": 1,
+                "reviews": [
+                    "this is very useful when team are working on multiple version of the code and issue ha occurred on a particular version of the code in this case developer can directly refer that version of the code in skytap and debug the issue"
+                ]
+            },
+            "negative": {
+                "count": 0,
+                "reviews": []
+            }
+        }
+    ]
+}
